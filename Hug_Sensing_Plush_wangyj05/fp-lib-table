@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Project Library")(type "KiCad")(uri "${KICAD7_TEMPLATE_DIR}/schematic_wangyj05/Project Library.pretty")(options "")(descr ""))
+)
