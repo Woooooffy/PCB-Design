@@ -1022,7 +1022,7 @@
     (property "Reference" "TP6" (at 80.01 48.768 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "TestPoint" (at 80.01 51.308 0)
+    (property "Value" "TP: ESP_EN" (at 80.01 51.308 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro-Minature" (at 82.55 53.34 0)
