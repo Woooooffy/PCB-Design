@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.95,
-          "width": 1.075
+          "height": 1.7018,
+          "width": 3.0988
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -476,6 +476,10 @@
       {
         "netclass": "USB",
         "pattern": "ESP_32_USB_D-"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "GND"
       }
     ]
   },
