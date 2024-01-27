@@ -388,7 +388,7 @@
 
   (text "https://learn.adafruit.com/adafruit-mprls-ported-pressure-sensor-breakout/downloads"
     (at 36.83 74.93 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (size 1.27 1.27)) (justify left bottom) (href "https://learn.adafruit.com/adafruit-mprls-ported-pressure-sensor-breakout/downloads"))
     (uuid 26c75832-a42d-41bd-a5ee-4b6b0eb10f8f)
   )
   (text "Powered by battery/battery charger" (at 113.03 41.91 0)

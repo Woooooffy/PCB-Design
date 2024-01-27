@@ -461,6 +461,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a57fadfe-9c90-4fdc-bee6-2e2a89dcc34f)
   )
+  (text "For programming: https://github.com/adafruit/Adafruit_DRV2605_Library"
+    (at 19.05 87.63 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom) (href "https://github.com/adafruit/Adafruit_DRV2605_Library"))
+    (uuid cbe48e9e-b61e-4d4c-a443-a6faacc86518)
+  )
   (text "Powered by battery/battery charger" (at 62.23 21.59 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f82e1bb8-1925-4692-b606-648009a450d3)
